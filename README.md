@@ -1,21 +1,5 @@
 # Coinbase Wallet PHP Library
-This is the client library for the [Coinbase Wallet API v2][1]. We
-provide an intuitive, stable interface to integrate Coinbase Wallet into your
-PHP project.
-
-_Important:_ As this library is targeted for newer API v2, it requires v2
-permissions (i.e. `wallet:accounts:read`). If you're still using v1, please use
-the [older version][2] of this library.
-
-## Installation
-
-Install the library using Composer. Please read the [Composer Documentation](https://getcomposer.org/doc/01-basic-usage.md) if you are unfamiliar with Composer or dependency managers in general.
-
-```json
-"require": {
-    "coinbase/coinbase": "~2.0"
-}
-```
+This is the client library for the [Coinbase Wallet API v2][1].
 
 ## Authentication
 
